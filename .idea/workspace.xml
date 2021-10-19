@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e469c005-6c9f-4590-95a6-d894c723ef42" name="Default Changelist" comment="Compare results treeview error message ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/1syslog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/DataFile1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Models/KNNmodel_20_08_2021_13_51_21.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Plots/KNNmodel_20_08_2021_13_51_21_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Plots/KNNmodel_20_08_2021_13_51_21_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Plots/KNNmodel_20_08_2021_13_51_21_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Results/Metrics_20_08_2021_13_51_21_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2syslog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/DataFile2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Models/KNNmodel_21_08_2021_14_52_06.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Models/LRmodel_21_08_2021_14_52_08.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/KNNmodel_21_08_2021_14_52_06_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/KNNmodel_21_08_2021_14_52_06_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/KNNmodel_21_08_2021_14_52_06_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/LRmodel_21_08_2021_14_52_08_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/LRmodel_21_08_2021_14_52_08_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Plots/LRmodel_21_08_2021_14_52_08_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Results/Metrics_21_08_2021_14_52_07_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Results/Metrics_21_08_2021_14_52_09_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/teste2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/3syslog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/DataFile3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_12_00_54.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_12_16_56.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_12_18_17.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_12_28_24.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_14_38_39.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/KNNmodel_30_08_2021_14_48_23.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_12_00_54.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_12_17_14.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_12_18_18.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_12_28_25.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_14_35_12.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_14_35_45.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/LRmodel_30_08_2021_14_37_08.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/NaiveBayesmodel_30_08_2021_12_00_55.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Models/NaiveBayesmodel_30_08_2021_14_36_56.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_00_54_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_00_54_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_00_54_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_16_56_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_16_56_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_16_56_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_18_17_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_18_17_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_18_17_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_28_24_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_28_24_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_12_28_24_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_38_39_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_38_39_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_38_39_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_48_23_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_48_23_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/KNNmodel_30_08_2021_14_48_23_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_00_54_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_00_54_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_00_54_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_17_14_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_17_14_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_17_14_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_18_18_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_18_18_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_18_18_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_28_25_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_28_25_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_12_28_25_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_14_37_08_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_14_37_08_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/LRmodel_30_08_2021_14_37_08_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/NBmodel_30_08_2021_12_00_55_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/NBmodel_30_08_2021_12_00_55_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Plots/NBmodel_30_08_2021_12_00_55_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_00_54_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_00_54_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_00_55_NV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_16_56_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_17_14_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_18_17_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_18_18_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_28_24_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_12_28_25_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_14_37_08_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_14_38_39_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Results/Metrics_30_08_2021_14_48_23_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/4syslog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/DataFile4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Models/KNNmodel_02_09_2021_12_16_51.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Models/LRmodel_02_09_2021_12_16_52.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Models/NaiveBayesmodel_02_09_2021_12_16_53.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/KNNmodel_02_09_2021_12_16_51_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/KNNmodel_02_09_2021_12_16_51_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/KNNmodel_02_09_2021_12_16_51_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/LRmodel_02_09_2021_12_16_52_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/LRmodel_02_09_2021_12_16_52_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/LRmodel_02_09_2021_12_16_52_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/NBmodel_02_09_2021_12_16_53_ConfusionMatrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/NBmodel_02_09_2021_12_16_53_PrecisionRecallCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Plots/NBmodel_02_09_2021_12_16_53_ROCCurve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Results/Metrics_02_09_2021_12_16_51_KNN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Results/Metrics_02_09_2021_12_16_52_LR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Results/Metrics_02_09_2021_12_16_53_NV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/teste2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/KNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/LR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/NV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/SVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/1619792259.586037_Stat_teste.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/1619792259.586037_teste.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/add_algorithm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/mais.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Tabela.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogFiles/LogFiles/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogFiles/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/Classify.py" beforeDir="false" afterPath="$PROJECT_DIR$/NEW/Classify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/Encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/NEW/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/Statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/NEW/Table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/testar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NEW/GUI.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NEW/Table.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NEW/Classify.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1vdsPC7hgGpqJKSjctxbHLW27bU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weka_informatico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NEW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NEW/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e469c005-6c9f-4590-95a6-d894c723ef42" name="Default Changelist" comment="" />
+      <created>1626903274381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626903274381</updated>
+      <workItem from="1626903277907" duration="1265000" />
+      <workItem from="1626904567311" duration="640000" />
+      <workItem from="1626981321763" duration="919000" />
+      <workItem from="1629389691114" duration="346000" />
+      <workItem from="1629460114544" duration="8016000" />
+      <workItem from="1629534075276" duration="4558000" />
+      <workItem from="1629543418868" duration="9258000" />
+      <workItem from="1629646204531" duration="3904000" />
+      <workItem from="1629652511313" duration="3867000" />
+      <workItem from="1629714401710" duration="8580000" />
+      <workItem from="1630160274435" duration="1637000" />
+      <workItem from="1630248454402" duration="8110000" />
+      <workItem from="1630320309024" duration="8123000" />
+      <workItem from="1630331685645" duration="1479000" />
+      <workItem from="1630345584282" duration="136000" />
+      <workItem from="1630406827221" duration="877000" />
+      <workItem from="1630577779033" duration="133000" />
+      <workItem from="1630578021165" duration="5671000" />
+      <workItem from="1630591266780" duration="3228000" />
+      <workItem from="1630679073162" duration="496000" />
+      <workItem from="1630849314206" duration="1395000" />
+      <workItem from="1630850792686" duration="107000" />
+      <workItem from="1630850960154" duration="3870000" />
+      <workItem from="1630855738690" duration="246000" />
+      <workItem from="1630856223051" duration="143000" />
+      <workItem from="1630856424124" duration="92000" />
+      <workItem from="1630870542058" duration="3413000" />
+      <workItem from="1630953020755" duration="88000" />
+      <workItem from="1630957028691" duration="958000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bugs about algorithms resolved &#10;Try Catch functionals">
+      <created>1626905157186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626905157186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Load Model changed">
+      <created>1629664445336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629664445336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Compare results treeview ok">
+      <created>1629727069589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629727069589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Compare results treeview error message ok">
+      <created>1629728296769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629728296769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bugs about algorithms resolved &#10;Try Catch functionals" />
+    <MESSAGE value="Load Model changed" />
+    <MESSAGE value="Compare results treeview ok" />
+    <MESSAGE value="Compare results treeview error message ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compare results treeview error message ok" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/weka_informatico$main.coverage" NAME="main Coverage Results" MODIFIED="1630850712942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NEW" />
+    <SUITE FILE_PATH="coverage/NTClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1630957137583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NEW" />
+    <SUITE FILE_PATH="coverage/weka_informatico$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1626981441594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
